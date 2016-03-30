@@ -58,7 +58,7 @@ Detailed Documentation
    :maxdepth: 4
 
    userguide/index
-   devguide
+   devguide/index
    F5 SDK API Docs <apidoc/modules>
 
 
