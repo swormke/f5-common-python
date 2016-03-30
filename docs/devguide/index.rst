@@ -17,7 +17,7 @@ is found at the iControl REST URI ``https://192.168.1.1/mgmt/tm/ltm/data-group``
     setup
     collection
     resource
-    tests
+    functional_tests
     docs
     pullrequest
 
